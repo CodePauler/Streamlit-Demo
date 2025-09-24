@@ -1,7 +1,5 @@
 https://app-demo-zhipu.streamlit.app/  
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/CodePauler/Streamlit-Demo)
-
 **Streamlit** 是一个用 **Python** 快速构建交互式 Web 应用的开源框架，尤其适合数据分析、机器学习可视化和原型展示。它的特点是：
 
 ---
